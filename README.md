@@ -1,4 +1,4 @@
-# PROJETO-VS-FOCUS-TIMER
+# PROJETO--FOCUS-TIMER - V2
 
 <h1 align="center"> Focus-Timer V2 </h1>
 
